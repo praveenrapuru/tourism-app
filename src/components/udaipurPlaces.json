@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Monsoon Palace",
+    "image": "/images/monsoon-palace.jpg",
+    "description": "Situated just outside Udaipur, this 19th-century palace is built on top of Bansdara hills. Used as a monsoon palace and hunting lodge, its builder, Maharana Sajjan Singh, originally planned to make it an astronomical center. The plan was cancelled with Maharana Sajjan Singh's premature death. It is still an awe-inspiring sight on the Udaipur skyline and offers spectacular views of the city and the areas around."
+  },
+  {
+    "id": 2,
+    "name": "Ahar Museum",
+    "image": "/images/ahar-museum.jpg",
+    "description": "Ahar Museum is in close proximity to an impressive cluster of cenotaphs of the Maharanas of Mewar. The museum has a small, but rare collection of earthen pottery. You can also browse through sculptures and archaeological finds, a few dating back to 1700 BC. A 10th century metal figure of Buddha is a special attraction here"
+  },
+  {
+    "id": 3,
+    "name": "Jagdish Temple",
+    "image": "/images/jagdish-temple.jpg",
+    "description": "An example of the Indo-Aryan style of architecture, Jagdish Temple was built in 1651 and continues to be one of the most famous temples in and around Udaipur. Dedicated to Lord Vishnu, the structure is an architectural marvel with carved pillars, graceful ceilings and painted walls. This three-storied temple was built by Maharana Jagat Singh I"
+  },
+  {
+    "id": 4,
+    "name": "Fateh Sagar Lake",
+    "image": "/images/fateh-sagar-lake.jpg",
+    "description": "This delightful lake, bordered by hills and woodlands, lies to the north of Lake Pichola. This artificial lake is connected to Lake Pichola by a canal. The lake houses the beautiful Nehru Island as well as an islet on which stands the Udaipur Solar Observatory. It was inaugurated by the Duke of Connaught and was initially called Connaught Bundh."
+  },
+  {
+    "id": 5,
+    "name": "Lake Pichola",
+    "image": "/images/lake-pichola.jpg",
+    "description": "Picholi was the name of a village that lent its name to the lake. The islands of Jagniwas and Jagmandir are housed in this lake. Along the eastern banks of the lake lies the City Palace. A boat ride in the lake around sunset offers a breathtaking view of the Lake and City Palace."
+  },
+  {
+    "id": 6,
+    "name": "Saheliyon Ki Bari",
+    "image": "/images/saheliyon-ki-bari.jpg",
+    "description": "Built by Maharana Sangram Singh II, the Garden of the Maidens features fountains, lotus pools, marble pavilions, and lush greenery."
+  },
+  {
+    "id": 7,
+    "name": "Bird Park Gulab Bagh",
+    "image": "/images/gulab-bagh-bird-park.jpg",
+    "description": "Built by Maharana Sangram Singh II as a garden for women, Saheliyon-ki-Bari or the Garden of the Maidens is a popular tourist destination. Along with a small museum, it has several attractions such as marble elephants, fountains, kiosks and a lotus pool."
+  },
+  {
+    "id": 8,
+    "name": "Sukhadia Circle",
+    "image": "/images/sukhadia-circle.jpg",
+    "description": "Sukhadia Circle lies to the north of Udaipur. It comprises a small pond that also houses a 21 foot tall, three-tiered marble fountain. Decorated with beautifully carved motifs, the fountain looks spectacular at night when it is lit up. The fountain is surrounded by gardens, creating a perfect oasis in a city bustling with tourists."
+  },
+  {
+    "id": 9,
+    "name": "Bharatiya Lok Kala Mandal",
+    "image": "/images/bharatiya-lok-kala-mandal.jpg",
+    "description": "Dedicated to the study of folk art, culture, songs and festivals of Rajasthan, Gujrat and Madhya Pradesh, Bharatiya Lok Kala Mandal is a cultural institution in Udaipur. Besides propagating folk culture, it also houses a museum that exhibits various artefacts of Rajasthani culture."
+  },
+  {
+    "id": 10,
+    "name": "Bagore Ki Haveli",
+    "image": "/images/bagore-ki-haveli.jpg",
+    "description": "Bagore-ki-Haveli is located by Lake Pichola, at Gangaur Ghat. Amar Chand Badwa, the Prime Minister of Mewar, built it in the 18th century. The massive palace has over a hundred rooms that display costumes and modern art. The glass and mirrors in the interiors are structured in classical haveli style."
+  }
+]

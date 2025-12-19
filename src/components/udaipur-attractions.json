@@ -1,0 +1,63 @@
+[
+{
+  "id": "doodh-talai",
+  "name": "Doodh Talai Lake",
+  "shortDescription": "A scenic lake nestled between small hillocks near Lake Pichola.",
+  "thumbnail": "/images/doodh-talai/thumb.jpg",
+
+  "heroImage": "/images/doodh-talai/hero.jpg",
+  "breadcrumb": "Home > Tourist Destinations > Doodh Talai Lake",
+
+  "tagline": "One of Udaipur’s most popular tourist attractions",
+
+  "about": [
+    "The road that takes visitors to Pichola Lake has another popular destination – the Doodh Talai Lake. The lake is nestled between several small hillocks which themselves are tourist attractions.",
+    "The Deen Dayal Upadhyay Park and the Manikya Lal Verma Garden are part of the Doodh Talai Lake Garden.",
+    "The Manikya Lal Verma Garden offers a stunning view of Lake Pichola and Doodh Talai Lake. It was built in 1995 by the Nagar Parishad of Udaipur.",
+    "A ropeway connects the hilltops and leads to the Karni Mata Temple. This 4-minute ride is Rajasthan’s first ropeway and offers panoramic views of the city."
+  ],
+
+  "howToReach": "One can visit Doodh Talai from anywhere in the city by tonga (horse-drawn carriage), auto-rickshaw, or by hiring a taxi.",
+
+  "nearbyPlaces": [
+    {
+      "name": "Dungarpur",
+      "distance": "103 km",
+      "image": "/images/nearby/dungarpur.jpg"
+    },
+    {
+      "name": "Chittorgarh",
+      "distance": "117 km",
+      "image": "/images/nearby/chittorgarh.jpg"
+    },
+    {
+      "name": "Jhalawar",
+      "distance": "322 km",
+      "image": "/images/nearby/jhalawar.jpg"
+    }
+  ]
+},
+
+{
+  "id": "jaisamand-lake",
+  "name": "Jaisamand Lake",
+  "shortDescription": "Second largest man-made sweet water lake in Asia.",
+  "thumbnail": "/images/jaisamand/thumb.jpg",
+
+  "heroImage": "/images/jaisamand/hero.jpg",
+  "breadcrumb": "Home > Tourist Destinations > Jaisamand Lake",
+
+  "tagline": "A peaceful retreat surrounded by hills and forests",
+
+  "about": [
+    "Jaisamand Lake is known for being the second largest man-made sweet water lake in Asia.",
+    "It was constructed to halt the waters of the Ruparel River.",
+    "The lake has a large central island that is home to several species of birds.",
+    "It is a popular picnic destination among locals and tourists."
+  ],
+
+  "howToReach": "Jaisamand Lake can be reached via taxi or private vehicle from Udaipur city.",
+
+  "nearbyPlaces": []
+}
+]
