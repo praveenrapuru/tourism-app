@@ -61,7 +61,7 @@ function Navbar() {
           <div className="flex items-center gap-4">
             <a href="#main" className="text-gray-700 hover:text-amber-600 font-light uppercase">Skip to Main Content</a>
             <span className="text-gray-300">|</span>
-            <a href="#" className="text-gray-700 hover:text-amber-600 font-light uppercase">Screen Reader</a>
+            <button className="text-gray-700 hover:text-amber-600 font-light uppercase">Screen Reader</button>
             <span className="text-gray-300 hidden sm:inline">|</span>
             <div className="hidden sm:flex items-center gap-2">
               <button className="text-gray-600 hover:text-amber-600 font-sm">A-</button>
