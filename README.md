@@ -1,4 +1,4 @@
-# Rajasthan Tourism App
+# Tourism App
 
 A React-based tourism website for Udaipur, Rajasthan featuring popular tourist attractions, travel information, and detailed place descriptions.
 
